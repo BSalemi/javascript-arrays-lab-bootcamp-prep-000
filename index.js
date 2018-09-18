@@ -32,4 +32,4 @@ function destructivelyRemoveFirstKitten(array, elements) {
       return ["Arnold", ...kittens] }
     
 function removeLastKitten(array, element) {
-  return kittens.slice(2)}
+  return kittens.slice(0), length - 2}
