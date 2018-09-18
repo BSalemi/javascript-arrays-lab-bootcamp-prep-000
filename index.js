@@ -42,4 +42,4 @@ function removeLastKitten(array, element) {
     
     
     
-  }
+  
