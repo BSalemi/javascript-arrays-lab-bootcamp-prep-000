@@ -30,4 +30,3 @@ function destructivelyRemoveFirstKitten(array, elements) {
   
     
     
-    kittens = kitten.append("Broom");
