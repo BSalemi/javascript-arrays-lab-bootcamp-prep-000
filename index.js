@@ -28,4 +28,4 @@ function destructivelyRemoveFirstKitten(array, elements) {
    kittens = kittens.append("Broom"); {
       return kittens }
   }
-    kittens.append("Broom")
+    kittens.append("Broom");
